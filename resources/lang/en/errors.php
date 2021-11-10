@@ -1,0 +1,26 @@
+<?php
+
+return array(
+  'addCategory' => 'Kategori tidak boleh kosong',
+  'addSkills' => 'Keahlian tidak boleh kosong',
+  'deleteWarning' => 'Anda tidak akan dapat memulihkan catatan yang dihapus!',
+  'areYouSure' => 'Apakah anda yakin?',
+  'fieldRequired' => 'bidang diperlukan',
+  'addQuestion' => 'Pertanyaan tidak boleh kosong.',
+  'sendInterviewReminder' => 'Apakah Anda ingin mengirim pengingat wawancara ke calon?',
+  'sendHiredNotification' => 'Apakah Anda ingin mengirim konfirmasi perekrutan ke calon?',
+  'acceptSchedule' => 'Apakah Anda ingin menerima jadwal wawancara?',
+  'refuseSchedule' => 'Apakah Anda ingin menolak jadwal wawancara?',
+  'askForCandidateEmail' => 'Apakah Anda ingin mengirim email ke calon atau tidak?',
+  'sendEmailText' => 'Send emails to :selectedApplicantsCount selected applicants !',
+  'excludeSent' => 'Kecualikan Dikirim',
+  'alreadyTaken' => 'Sudah diambil. Coba yang lain.',
+  'nexmoKeyRequired' => 'Nexmo Key is required for Active Status',
+  'nexmoSecretRequired' => 'Nexmo Secret is required for Active Status',
+  'nexmoFromRequired' => 'Nexmo From is required for Active Status',
+  'archiveWarning' => 'Anda dapat melihat lamaran yang diarsipkan di Database calon. Apakah Anda ingin mengarsipkannya?',
+  'addLocations' => 'Lokasi pekerjaan tidak boleh kosong.',
+  'unarchiveWarning' => 'Apakah Anda ingin membuka arsip itu?',
+  'sendRejectedNotification' => 'Apakah Anda ingin mengirim penolakan konfirmasi ke calon',
+  'deleteStatusWarning' => 'Aplikasi di kolom ini akan dipindahkan ke Database calon!',
+);

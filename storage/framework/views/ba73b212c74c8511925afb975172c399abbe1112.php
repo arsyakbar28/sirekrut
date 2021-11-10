@@ -1,0 +1,1 @@
+<?php echo e($text); ?><?php /**PATH D:\kuliah\Belajar\web\laravel\SiRekrutV1\resources\views/vendor/mail/text/text.blade.php ENDPATH**/ ?>
